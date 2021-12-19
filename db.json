@@ -1,16 +1,40 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id" : 0,
+      "id": 0,
       "title": "First post!",
-      "content" : "My first content!"
+      "content": "My first content!",
+      "wishlist": [
+        [
+          "ICICITECH::NSE",
+          358.82,
+          357.41
+        ],
+        [
+          "AXISHCETF::NSE",
+          85.19,
+          85.95
+        ]
+      ]
     }
   ],
-  "comments" : [
+  "comments": [
     {
       "id": 0,
       "content": "Wow such content!",
       "username": "zero_cool"
     }
+  ],
+  "wishlist": [
+    [
+      "ICICITECH::NSE",
+      358.82,
+      357.41
+    ],
+    [
+      "AXISHCETF::NSE",
+      85.19,
+      85.95
+    ]
   ]
 }
