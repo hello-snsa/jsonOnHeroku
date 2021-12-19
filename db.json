@@ -3,19 +3,7 @@
     {
       "id": 0,
       "title": "First post!",
-      "content": "My first content!",
-      "wishlist": [
-        [
-          "ICICITECH::NSE",
-          358.82,
-          357.41
-        ],
-        [
-          "AXISHCETF::NSE",
-          85.19,
-          85.95
-        ]
-      ]
+      "content": "My first content!"
     }
   ],
   "comments": [
@@ -25,16 +13,5 @@
       "username": "zero_cool"
     }
   ],
-  "wishlist": [
-    [
-      "ICICITECH::NSE",
-      358.82,
-      357.41
-    ],
-    [
-      "AXISHCETF::NSE",
-      85.19,
-      85.95
-    ]
-  ]
+  "wishlist": []
 }
